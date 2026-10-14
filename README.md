@@ -4,3 +4,5 @@
 - (Trên điện thoại) Tải ứng dụng Expo Go trên Chplay hoặc IOS ,sau đó quét mã trên terminal để vào app,đăng ký tài khoản và có thể sử dụng  
 
 [Link VideoKetQua] (https://youtu.be/kBtNOKbA1Ko?si=1E9UOLFeFAhOrxg0)  
+
+[Link VideoChucNang] (https://youtube.com/shorts/QLZUSKaw57U)  
